@@ -1,0 +1,13 @@
+6,A,B,C,D,E,F
+n,101,Ali,Ceviz,32,Bilgisayar Muhendisi
+3,4,3,5,1,2
+i,201,John,Smith,USA,New Jersey
+5,2,1,4,3,3
+n,102,Veli,Tuz,35,Doktor
+4,3,4,4,2,4
+n,103,Zeynep,Demir,06,Hemsire
+3,2,4,3,2,5
+i,202,Mario,Gomez,Almanya,Wolfsburg
+4,1,3,2,1,1
+n,104,Nazmi,Can,34,Doktor
+2,1,1,1,4,2,3
